@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .clock {
+    font-size:5rem;
+    background: linear-gradient(45deg, #00d5ff, #ff00ff); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+ 
+
+  }
